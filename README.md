@@ -5,6 +5,6 @@ This template is based on the official `node` template from OpenFaaS. It allows 
 ## Usage
 
 ```shell
-faas-cli template pull https://github.com/konsorten/openfaas-template-typescript
+faas-cli template pull https://github.com/SapioBeasley/openfaas-template-typescript
 faas-cli new my-typescript-function --lang node-typescript
 ```
